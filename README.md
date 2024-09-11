@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajjad</h1>
+<h1 align="center">Hi 👋, I'm Sajjad 🧑‍💻 </h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img width="250" height="250" with src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad-shirafkan&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad-shirafkan" /> </p>
