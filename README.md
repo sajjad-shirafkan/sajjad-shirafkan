@@ -8,8 +8,10 @@
 
 - 📝 I regularly write articles on [https://github.com/sajjad-shirafkan](https://github.com/sajjad-shirafkan)
 
-- 📫 How to reach me **sshirafkan13@gmail.com**
-
+- 📫 How to reach me **sshirafkan13@gmail.com**  && : <br><br>
+ <a href="https://t.me/Sajjad_Shirafkan_dv" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/256px-Telegram_alternative_logo.svg.png?20220331105502" alt="Telegram Accont" width="40" height="40"/> </a>
+ <a href="https://www.linkedin.com/in/sajjad-shirafkan-b9a806330/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/134579/linkedin.svg" alt="Telegram Accont" width="40" height="40"/> </a>
+  <a href="https://github.com/sajjad-shirafkan" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="Telegram Accont" width="40" height="40"/> </a>
 
 <p align="left">
 </p>
